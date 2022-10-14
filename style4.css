@@ -13,6 +13,7 @@ nav{
     padding: 5%;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    
 }
 
 .contact{
@@ -60,3 +61,13 @@ h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 100;
 }
+
+footer p{
+    margin-top: 5%;
+    text-align: center;
+    color: #7895B2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
+
+}
+

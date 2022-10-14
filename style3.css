@@ -16,16 +16,19 @@ nav{
 }
 
 body {
-    background-color: #E8DFCA;
-  
+    background-color: #E8DFCA; 
     
 }
 
-
 img{
-    width: 30%;
+    width: 25%;
     height: 300px;
-    margin: 10px;
+    padding-left: 5%;
+    
 }
 
+footer {
+    margin: 10%;
+
+}
 
