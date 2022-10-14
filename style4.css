@@ -19,6 +19,7 @@ nav{
     background-color: #7895B2;
     text-align: center;
     color: #F5EFE6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
@@ -28,6 +29,7 @@ body {
 .my-form{
     text-align: center;
     background-color: #7895B2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
 .form-item{
@@ -54,4 +56,7 @@ body {
 
 h3{
     text-align: center;
+    color: #7895B2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
 }
