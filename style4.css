@@ -1,0 +1,57 @@
+a{
+    text-decoration: none;
+    color:#7895B2;
+}
+
+a:hover{
+    color: #47B5FF;
+
+}
+nav{
+    
+    display: block;
+    padding: 5%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+.contact{
+    background-color: #7895B2;
+    text-align: center;
+    color: #F5EFE6;
+}
+
+body {
+    background-color: #E8DFCA;
+}
+
+.my-form{
+    text-align: center;
+    background-color: #7895B2;
+    
+}
+.form-item{
+    padding-top: 10px;
+
+    
+}
+
+.my-form label{
+    display: block;
+    color: #F5EFE6;
+    
+}
+
+.my-form input {
+    padding: 8px;
+    width: 50%;
+}
+
+.my-form textarea {
+    padding: 8px;
+    width: 50%;
+}
+
+h3{
+    text-align: center;
+}
