@@ -21,18 +21,26 @@ body {
 }
 
 .hero {
-    display: block;
+    
     background-color: #7895B2;
     padding: 10%;
+    display: flex;
+    
 
 }
 
+.profilepic img{
+    width: 70%;
+    
+  
+    
+}
 .hero h1, p{
 
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: right;
     color:#F5EFE6;
-    text-align: center;
-    margin-left: 20%;
-    margin-right: 20%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -40,3 +48,4 @@ footer {
     margin: 10%;
 
 }
+

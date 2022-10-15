@@ -35,14 +35,11 @@ body {
 }
 .form-item{
     padding-top: 10px;
-
-    
 }
 
 .my-form label{
     display: block;
     color: #F5EFE6;
-    
 }
 
 .my-form input {
