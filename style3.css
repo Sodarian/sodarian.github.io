@@ -8,7 +8,6 @@ a:hover{
 
 }
 nav{
-    
     display: block;
     padding: 5%;
     text-align: center;
@@ -17,7 +16,6 @@ nav{
 
 body {
     background-color: #E8DFCA; 
-    
 }
 
 img{
@@ -36,7 +34,6 @@ p{
 
 footer {
     margin: 10%;
-
 }
 
 section {
@@ -47,7 +44,6 @@ section {
 .container-1{
     flex-basis: 30%;
     margin: 10px;
-
 }
 
 .container-2{
@@ -58,4 +54,12 @@ section {
 .container-3{
     flex-basis: 30%;
     margin: 10px;
+}
+
+footer p{
+    margin-top: 5%;
+    text-align: center;
+    color: #7895B2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
 }

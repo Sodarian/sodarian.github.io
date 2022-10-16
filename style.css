@@ -5,10 +5,8 @@ a{
 
 a:hover{
     color: #47B5FF;
-
 }
 nav{
-    
     display: block;
     padding: 5%;
     text-align: center;
@@ -17,16 +15,12 @@ nav{
 
 body {
     background-color: #E8DFCA;
-    
 }
 
 .hero {
     display: block;
     background-color: #7895B2;
     padding: 5%;
-
-
-    
 }
 
 h1, h3, p {
@@ -39,22 +33,21 @@ h1, h3, p {
 
 img{
     height: 40px;
-    width: 40px;
-
-
-    
+    width: 40px; 
 }
 
 .icons{
     display:flex;
     justify-content: center;
     gap: 20px;
-
 }
 
-footer {
-    margin: 10%;
-
+footer p{
+    margin-top: 5%;
+    text-align: center;
+    color: #7895B2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
 }
 
 

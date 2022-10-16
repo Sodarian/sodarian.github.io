@@ -5,10 +5,8 @@ a{
 
 a:hover{
     color: #47B5FF;
-
 }
 nav{
-    
     display: block;
     padding: 5%;
     text-align: center;
@@ -17,26 +15,19 @@ nav{
 
 body {
     background-color: #E8DFCA;
-    
 }
 
 .hero {
-    
     background-color: #7895B2;
     padding: 5%;
     display: flex;
-    
-
 }
 
 .profilepic img{
-    width: 70%;
-    
-  
-    
+    width: 70%; 
 }
-.hero h1, p{
 
+.hero h1, p{
     padding-left: 20%;
     padding-right: 20%;
     text-align: right;
@@ -44,8 +35,11 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-footer {
-    margin: 10%;
-
+footer p{
+    margin-top: 5%;
+    text-align: center;
+    color: #7895B2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
 }
 
